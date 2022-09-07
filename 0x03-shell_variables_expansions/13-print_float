@@ -1,2 +1,3 @@
 #!/bin/bash
-echo prinf "%.2f\n" | $NUM
+prinf "%.2f\n" $NUM
+13-print_float (END)
